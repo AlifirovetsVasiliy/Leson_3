@@ -1,5 +1,5 @@
 # Инструкция GIT
-
+![Hi Mark](Markdown-mark.png)
 ## *Содержание*:
 1. git init
 2. git add
