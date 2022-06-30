@@ -51,6 +51,6 @@
 ## **7. git branch**
 - Просмотор текущего раположения в ветках
 - - *Пример: ...git branch*
-
+![Hi Mark](branches1.jpg)
 - Создание ветки
 - - *Пример: ...git branch name_branch*
