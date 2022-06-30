@@ -1,0 +1,9 @@
+# Инструкция GIT
+
+## *Содержание*:
+1. git init
+2. git add
+3. git commit
+4. git diff
+5. git log
+6. git checkout
