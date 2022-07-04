@@ -55,3 +55,8 @@
 ![Hi Mark](branches1.jpg)
 - Создание ветки
 - - *Пример: ...git branch name_branch*
+
+## **8. git clone**
+- клонирование репозитория по ссылке на локальный носитель
+- - *Пример: ...git clone https://github.com/libgit2/libgit2*
+
