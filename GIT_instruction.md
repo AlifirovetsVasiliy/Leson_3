@@ -8,6 +8,7 @@
 5. git log
 6. git checkout
 7. git branch
+8. git clone
 
 ## **1. git init**
 - Создание репозитория в указанной папке
