@@ -9,6 +9,7 @@
 6. git checkout
 7. git branch
 8. git clone
+9. git push
 
 ## **1. git init**
 - Создание репозитория в указанной папке
@@ -60,3 +61,6 @@
 - клонирование репозитория по ссылке на локальный носитель
 - - *Пример: ...git clone https://github.com/libgit2/libgit2*
 
+## **9. git push**
+- Отправка в облако (git hub), прим. *необходимо предварительно связать с git hub*
+- - *Пример: ...git push*
